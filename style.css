@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+button{
+    background-color: rgb(195, 236, 195);
+}
+h1{
+    color: rgb(219, 39, 75);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:50px ;
+}
