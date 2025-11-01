@@ -7,7 +7,7 @@ body{
      display: flex;
      justify-content: center;
      align-items: center;
-     min-height: 20vh;
+     min-height: 100vh;
 }
 button{
     background-color: rgb(195, 236, 195);
@@ -20,5 +20,6 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     margin-top:50px ;
 }
+
 
 
